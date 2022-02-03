@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biblioteca Nacional</string>
+    <string name="sin_resultados">No se encontraron libros que coincidan con su búsqueda</string>
+    <string name="precio">Precio:  %1$s</string>
+    <string name="isbn">ISBN: %1$s</string>
+    <string name="libros">Libros:</string>
+    <string name="biblioteca_nacional">Biblioteca Nacional</string>
+    <string name="subtitulo_busqueda">Ingresa el libro que deseas buscar (Título, Autor, ISBN o Palabras clave):</string>
+</resources>
